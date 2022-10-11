@@ -1,0 +1,144 @@
+<html lang="en">
+    <body>
+        <h1>To</h1>
+        <h1>Mr Tim MacDonald</h1>
+        <address>
+            100 Main Street
+            Palmerston North
+        </address>
+
+        <h1>Dear Tim</h1>
+        <h4>I would like to invite you to a party this Saturday, 8PM at my place.</h4>
+        <h4>Cheers, Maysen</h4>
+        <hr>
+    </body>
+</html>
+
+
+
+<html lang="en">
+    <body>
+        <h1>To</h1>
+        <h1>Mr Tom Smith</h1>
+        <address>
+            42 Cuba Street
+            Palmerston North
+        </address>
+
+        <h1>Dear Tom</h1>
+        <h4>I would like to invite you to a party this Saturday, 8PM at my place.</h4>
+        <h4>Cheers, Maysen</h4>
+        <hr>
+    </body>
+</html>
+
+
+
+<html lang="en">
+    <body>
+        <h1>To</h1>
+        <h1>Mrs Amy Turner</h1>
+        <address>
+            3 Worchester Street
+            Palmerston North
+        </address>
+
+        <h1>Dear Amy</h1>
+        <h4>I would like to invite you to a party this Saturday, 8PM at my place.</h4>
+        <h4>Cheers, Maysen</h4>
+        <hr>
+    </body>
+</html>
+
+
+
+<html lang="en">
+    <body>
+        <h1>To</h1>
+        <h1>Mrs Anne O'Brian</h1>
+        <address>
+            4 Manchester Street
+            Feilding
+        </address>
+
+        <h1>Dear Anne</h1>
+        <h4>I would like to invite you to a party this Saturday, 8PM at my place.</h4>
+        <h4>Cheers, Maysen</h4>
+        <hr>
+    </body>
+</html>
+
+
+
+<html lang="en">
+    <body>
+        <h1>To</h1>
+        <h1>Mr Fred Miller</h1>
+        <address>
+            55 Salisbury Street
+            Ashhurst
+        </address>
+
+        <h1>Dear Fred</h1>
+        <h4>I would like to invite you to a party this Saturday, 8PM at my place.</h4>
+        <h4>Cheers, Maysen</h4>
+        <hr>
+    </body>
+</html>
+
+
+
+<html lang="en">
+    <body>
+        <h1>To</h1>
+        <h1>Mr Max Meyer</h1>
+        <address>
+            77 Main Street
+            Palmerston North
+        </address>
+
+        <h1>Dear Max</h1>
+        <h4>I would like to invite you to a party this Saturday, 8PM at my place.</h4>
+        <h4>Cheers, Maysen</h4>
+        <hr>
+    </body>
+</html>
+
+
+
+<html lang="en">
+    <body>
+        <h1>To</h1>
+        <h1>Mr Walter Mueller</h1>
+        <address>
+            22 Cook Street
+            Palmerston North
+        </address>
+
+        <h1>Dear Walter</h1>
+        <h4>I would like to invite you to a party this Saturday, 8PM at my place.</h4>
+        <h4>Cheers, Maysen</h4>
+        <hr>
+    </body>
+</html>
+
+
+
+<html lang="en">
+    <body>
+        <h1>To</h1>
+        <h1>Mrs Kate Wang</h1>
+        <address>
+            12 Albert Street
+            Palmerston North
+        </address>
+
+        <h1>Dear Kate</h1>
+        <h4>I would like to invite you to a party this Saturday, 8PM at my place.</h4>
+        <h4>Cheers, Maysen</h4>
+        <hr>
+    </body>
+</html>
+
+
+

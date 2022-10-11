@@ -1,0 +1,25 @@
+<html lang="en">
+    <body>
+        #if($person.gender == "MALE")
+            #set($gender_greeting = "Mr")
+        #elseif($person.gender == "FEMALE")
+            #set($gender_greeting = "Mrs")
+        #else
+            #set($gender_greeting = "")
+        #end
+        <h1>To</h1>
+        <h1>$gender_greeting $person.firstName $person.name</h1>
+        <address>
+            $person.address.number $person.address.street
+            $person.address.town
+        </address>
+
+        <h1>Dear $person.firstName</h1>
+        <h4>I would like to invite you to a party this Saturday, 8PM at my place.</h4>
+        <h4>Cheers, Maysen</h4>
+        <hr>
+    </body>
+</html>
+
+
+
